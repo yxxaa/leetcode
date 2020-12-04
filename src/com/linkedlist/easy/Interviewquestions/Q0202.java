@@ -1,4 +1,4 @@
-package com.linkedlist.Interviewquestions;
+package com.linkedlist.easy.Interviewquestions;
 
 import com.linkedlist.ListNode;
 

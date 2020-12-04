@@ -1,4 +1,4 @@
-package com.linkedlist.swordfinger;
+package com.linkedlist.easy.swordfinger;
 
 
 import com.linkedlist.ListNode;

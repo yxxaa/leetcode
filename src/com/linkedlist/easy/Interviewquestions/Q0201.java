@@ -1,10 +1,8 @@
-package com.linkedlist.Interviewquestions;
+package com.linkedlist.easy.Interviewquestions;
 
 import com.linkedlist.ListNode;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
 /**

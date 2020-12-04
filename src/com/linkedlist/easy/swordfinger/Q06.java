@@ -1,9 +1,7 @@
-package com.linkedlist.swordfinger;
+package com.linkedlist.easy.swordfinger;
 
 import com.linkedlist.ListNode;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
 
 /**
