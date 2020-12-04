@@ -31,7 +31,7 @@ public class Q21 {
         pre.next = l1==null?l2:l1;
         return prehead.next;
     }
-    //递归法
+    //递归法。
     public ListNode mergeTwoLists2(ListNode l1, ListNode l2) {
         if (l1==null) {
             return l2;
