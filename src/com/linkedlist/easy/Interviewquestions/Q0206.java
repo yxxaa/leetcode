@@ -7,7 +7,12 @@ import java.util.Stack;
 /**
  * @Author: yxx
  * @Date: 2020/12/4 15:47
- * @Description: *
+ * @Description: *回文链表
+ * 编写一个函数，检查输入的链表是否是回文的。
+ *
+ * 示例 1：
+ * 输入： 1->2
+ * 输出： false
  */
 public class Q0206 {
     //栈
