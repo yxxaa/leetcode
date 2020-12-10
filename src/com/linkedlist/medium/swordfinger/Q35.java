@@ -15,6 +15,8 @@ import java.util.Map;
 
  * 输入：head = [[7,null],[13,0],[11,4],[10,2],[1,0]]
  * 输出：[[7,null],[13,0],[11,4],[10,2],[1,0]]
+ *
+ * 同Q138
  */
 public class Q35 {
     class Node {
